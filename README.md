@@ -4,11 +4,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Dharpawar :)</h1>
 <h3 align="center">A passionate and innovative AI enthusiast from Mumbai, India</h3>
 
-- 🌱 I’m currently learning **Tensorflow 2.0, Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@HarshDharpawar](https://replit.com/@HarshDharpawar)
 
-- 📫 How to reach me **harshdharpawar@gmail.com**
+- 📫 How to reach me **harshdharpawar4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
